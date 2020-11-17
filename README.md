@@ -6,12 +6,13 @@ I had excellent grades in courses like mathematical analysis, linear programming
 
 ## Software knowledge
 
-- Office packages: Microsoft Office 365, Microsoft Project, Apple Productivity Suite: Pages, Numbers, Keynote.
-- Mathematics software: Maple V, MathCad.
-- Client-Server software: Sybase SQL, Delphi Integrated Development Environment, NINOX Database, REST API.
-- Operating systems: Windows 10 and macOS, VMS, Sun Solaris, UNIX 5.0, Ubuntu Linux, Novell 4.1.
-- Programming languages: C and C++, Paradox Object PAL, Borland Delphi Object Oriented Pascal, HTML, Javascript.
++ Office packages: Microsoft Office 365, Microsoft Project, Apple Productivity Suite: Pages, Numbers, Keynote.
++ Mathematics software: Maple V, MathCad.
++ Client-Server software: Sybase SQL, Delphi Integrated Development Environment, NINOX Database, REST API.
++ Operating systems: Windows 10 and macOS, VMS, Sun Solaris, UNIX 5.0, Ubuntu Linux, Novell 4.1.
++ Programming languages: C and C++, Paradox Object PAL, Borland Delphi Object Oriented Pascal, HTML, Javascript.
 
+-----
 
 ### It's never too late to learn new things...
 
